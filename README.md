@@ -12,19 +12,21 @@
 
 - 🌱  I'm currently learning Python and Cyber ​​Security
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 𝑰 𝒗𝒆𝒓𝒚 𝒆𝒏𝒋𝒐𝒚 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 𝒐𝒏
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I very enjoy working on
   - 🛠  My Information on ethical hacking (Kali Linux, Network, Python)
   - 🐞 I have web programming knowledge (HTML, CSS, Javascript)
 
-- 💬 𝑨𝒔𝒌 𝒎𝒆 𝒂𝒃𝒐𝒖𝒕 **Python**
+- 💬 Ask me about **Python**
 
 - 📫 To contact me **dogukan.ispirli08@gmail.com**
 
 <summary style="font-weight: bold; font-size: 18px"><h3>My contact information</h3></summary>
 <a href="https://www.linkedin.com/in/dogukan-ispirli/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="doğukan talha ispirli" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dtisec3" height="30" width="40" />
 
-
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dtisec2" height="30" width="40" />
+<a href = "https://www.instagram.com/dogukan.ispirli/" target = "blank"></a>
+  
 <summary style="font-weight: bold; font-size: 18px"><h3>Tools and Languages</h3></summary>
 <a href = "https://www.w3.org/html/" target = "_blank" rel = "noreferrer">
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt = "Html5" width = "40" height = "40"/> </a>
