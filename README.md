@@ -55,6 +55,10 @@
   <br>
   <br>
   
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dtisec&show_icons=true&locale=tr&layout=compact" alt="dtisec" /></p>
+
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=dtisec&show_icons=true&theme=gradient)
+  
 ```
   from music import headphones
 
@@ -62,7 +66,7 @@
   class life:
       languages : choice = ("Python", "HTML & CSS")
       database : choice = ("SQL")
-      activitys : choice = ("Pentesting", "Application Security", "Network")
+      activitys : choice = ("Pentesting", "Linux", "Network")
       favorites : choice = ("Movie", "Music", "Hacking")
   
     print("""
@@ -96,6 +100,3 @@
     """)
 
 ```
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dtisec&show_icons=true&locale=tr&layout=compact" alt="dtisec" /></p>
-
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=dtisec&show_icons=true&theme=gradient)
