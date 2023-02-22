@@ -56,6 +56,15 @@
   <br>
   
 ```
+  from music import headphones
+
+  @music  
+  class life:
+      languages : choice = ("Python", "HTML & CSS")
+      database : choice = ("SQL")
+      activitys : choice = ("Pentesting", "Application Security", "Network")
+      favorites : choice = ("Movie", "Music", "Hacking")
+  
     print("""
     
 
