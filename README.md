@@ -56,5 +56,5 @@
   <br>
   
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dtisec&show_icons=true&theme=radical&hide=issues,contribs)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furtsy&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
-<img src="https://github-profile-trophy.vercel.app/?username=Furtsy&theme=nord" width="%100" height="150px" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtisec&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=dtisec&theme=nord" width="%100" height="150px" alt="stats" />
