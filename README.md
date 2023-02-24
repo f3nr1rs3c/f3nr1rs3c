@@ -3,7 +3,7 @@
 <h3 align="center">I am currently interested in Information Technologies and Cyber ​​Security. 👨🏻‍💻
 </h3>
 <p align="center">
-  <img width="460" height="300" src="https://i.hizliresim.com/ceeghpj.jpg">
+  <img width="460" height="300" src="https://i.hizliresim.com/5bgeda1.png">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LewisVR&label=Profile%20views&color=0e75b6&style=flat" alt="LewisVR" /> </p>
@@ -50,7 +50,6 @@
 
 <a href = "https://www.w3schools.com/css/" target = "_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt = "Css3" width = "40" height = "40"/> </a>   
-
   
   <br>
   <br>
@@ -58,3 +57,4 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dtisec&show_icons=true&theme=radical&hide=issues,contribs)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtisec&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
 <img src="https://github-profile-trophy.vercel.app/?username=dtisec&theme=nord" width="%100" height="150px" alt="stats" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dtisec&" alt="dtisec" /></p>
