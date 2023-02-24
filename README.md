@@ -6,6 +6,8 @@
   <img width="460" height="300" src="https://i.hizliresim.com/ceeghpj.jpg">
 </p>
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=dtisec&show_icons=true&theme=radical&hide=issues,contribs)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LewisVR&label=Profile%20views&color=0e75b6&style=flat" alt="LewisVR" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dtisec" alt="dtisec" /></a> </p>
