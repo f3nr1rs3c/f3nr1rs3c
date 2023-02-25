@@ -16,7 +16,7 @@
   - 🛠  My Information on ethical hacking (Kali Linux, Network, Python)
   - 🐞 I have web programming knowledge (HTML, CSS, Javascript)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Linkedin**
 
 - 📫 To contact me **dogukan.ispirli08@gmail.com**
 
