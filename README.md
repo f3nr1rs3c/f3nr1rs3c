@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Doğukan Talha İSPİRLİ</h1>
 <br>
-<h3 align="center">I am currently interested in Information Technologies and Cyber ​​Security. 👨🏻‍💻
+<h3 align="center">I am currently interested in Information Technologies and Ethical ​​Hacking. 👨🏻‍💻
 </h3>
 <p align="center">
   <img width="460" height="300" src="https://i.hizliresim.com/5bgeda1.png">
