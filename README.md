@@ -1,3 +1,5 @@
+<a href = "https://github.com/ryo-ma/github-profile-trophy">
+  
 <p align="center">
   <img width="700" height="400" src="https://i.hizliresim.com/5bgeda1.png">
 </p>
@@ -12,8 +14,6 @@
 
 <p align = "left"> 
   
-<a href = "https://github.com/ryo-ma/github-profile-trophy">
-
 <br>
 <br>
 
