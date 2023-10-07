@@ -5,9 +5,18 @@
 <h1 align="center">Merhaba 👋, ben Higashi 東</h1>
 <h3 align="center">Türkiye'de Siber Güvenlik Danışmanı ve BT Yardım Masası</h3>
 
-<p align="left" > <img src = "https://komarev.com/ghpvc/?username=dtisec&label=Profile%20views&color=0e75b6&style=flat" alt = "dtisec" /> </p>
+<p align="left" > 
 
-<p align = "left"> <a href = "https://github.com/ryo-ma/github-profile-trophy"><img src = "https://github-profile-trophy.vercel.app/?username=dtisec" alt = "dtisec " /></a> </p>
+
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=dtisec&theme=radical&no-frame=true&no-bg=false&margin-w=4">
+
+<p align = "left"> 
+  
+<a href = "https://github.com/ryo-ma/github-profile-trophy">
+
+<img src = "https://komarev.com/ghpvc/?username=dtisec&label=Profile%20views&color=0e75b6&style=flat" alt ="dtisec"/>
+
+</p>
 
 - 🌱 Şu anda **Siber Güvenlik ve BT konusunda kendimi geliştiriyorum. **
 
@@ -41,6 +50,10 @@
   <a href="https://www.w3schools.com/ css/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt = " css3" width = "40" height = "40"/> </a> 
   <a href = "https://www.mysql.com/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt = "mysql" width = "40" height = "40"/> </a> 
 </p>
-<p><img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=dtisec&show_icons=true&locale=en&layout=compact" alt = "dtisec" /> </p>
+<p>
 
-<p> <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=dtisec&show_icons=true&locale=en" alt = "dtisec" /> </p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtisec&theme=blue-green">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dtisec&theme=blue-green"></p><br>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=dtisec&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/>
+
+</p>
