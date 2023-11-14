@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Higashi 東</h1>
-<h3 align="center">Cyber ​​Security Consultant and IT Help Desk in Turkey</h3>
+<h3 align="center">Cyber ​​Security Consultant in Turkey</h3>
 
 <p align="left" > 
 
