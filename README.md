@@ -4,7 +4,7 @@
   <img width="700" height="400" src="https://i.hizliresim.com/5bgeda1.png">
 </p>
 
-<h1 align="center">Hi 👋, I'm Higashi 東</h1>
+<h1 align="center">Hi 👋, I'm DTISEC</h1>
 <h3 align="center">Cyber ​​Security Consultant in Turkey</h3>
 
 <p align="left" > 
