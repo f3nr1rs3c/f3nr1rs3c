@@ -36,11 +36,11 @@
 <h3 align="left">Contact setup with me: </h3>
 <p align = "sol">
 <a href = "https://twitter.com/dogukantispirli" target = "blank"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg" alt = "dogukantispirli" height = "30" genişlik = "40" /></a>
-<a href = "https://linkedin.com/in/dogukan-ispirli" target = "boş"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt = "dogukan-ispirli" height = "30" width = "40" /></a>
+<a href = "https://linkedin.com/in/dogukan-ispirli" target = "_blank"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt = "dogukan-ispirli" height = "30" width = "40" /></a>
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dtisec2" height="30" width="40" />
-<a href = "https://www.instagram.com/dogukan.ispirli/" target = "blank"></a>
-<a href = "https://medium.com/@dogukan.ispirli08" target = "blank"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt = "@dogukan.ispirli08" height = "30" genişlik = "40" /></a> <a href = "https://www.youtube.com/@higashi08" target = "blank"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt = "ucmd3vznbsm01madljrjrrxw" height = "30" genişlik = "40" /></a>
-<a href = "https://discord.gg/dtisec" target = "boş"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt = "dtisec" height = "30" genişlik = "40" /></a>
+<a href = "https://www.instagram.com/dogukan.ispirli/" target = "_blank"></a>
+<a href = "https://medium.com/@dogukan.ispirli08" target = "_blank"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt = "@dogukan.ispirli08" height = "30" genişlik = "40" /></a> <a href = "https://www.youtube.com/@higashi08" target = "_blank"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt = "ucmd3vznbsm01madljrjrrxw" height = "30" genişlik = "40" /></a>
+<a href = "https://discord.gg/dtisec" target = "_blank"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt = "dtisec" height = "30" genişlik = "40" /></a>
 </p>
 
 <h3 align="left">Languages ​​and Tools:</h3>  
