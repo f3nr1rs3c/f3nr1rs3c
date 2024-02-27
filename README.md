@@ -6,13 +6,7 @@
 
 <h2 align="center">Hi 👋, I'm F3NR1R</h2>
 <h3 align="center">Cyber ​​Security Consultant | Ethical Hacker </h3>
-
-<p align="left" > 
-<br>
-
-<p align = "left"> 
-  
-<br>
+<p align="left" >   
 <br>
 
 <img src = "https://komarev.com/ghpvc/?username=dtisec&label=Profile%20views&color=0e75b6&style=flat" alt ="dtisec"/>
