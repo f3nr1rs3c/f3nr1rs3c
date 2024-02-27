@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm F3NR1R</h1>
-<h3 align="center">Cyber ​​Security Consultant in Turkey</h3>
+<h3 align="center">Cyber ​​Security Consultant | Ethical Hacker</h3>
 
 <p align="left" > 
 
