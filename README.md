@@ -9,7 +9,6 @@
 
 <p align="left" > 
 <br>
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=dtisec&theme=radical&no-frame=true&no-bg=false&margin-w=4">
 
 <p align = "left"> 
   
