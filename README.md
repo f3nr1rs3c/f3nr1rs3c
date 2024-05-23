@@ -4,12 +4,10 @@
   <img width="700" height="400" src="https://i.hizliresim.com/5bgeda1.png">
 </p>
 
-<h2 align="center"> Hi 👋, I'm Doğukan İSPİRLİ </h2>
+<center> Hi 👋, I'm Doğukan İSPİRLİ </center>
 <h3 align="center">Cyber Security Consultant | Ethical Hacker | System & Network</h3>
 <p align="left" >   
 <br>
-(https://img.shields.io/badge/For_English_CLICK_Here-English_Click_here?style=flat-square&logo=googletranslate&labelColor=white&color=blue)](https://github-com.translate.goog/LuNiZz?_x_tr_sl=tr&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
-
 <img src = "https://komarev.com/ghpvc/?username=f3nr1rs3c&label=Profile%20views&color=0e75b6&style=flat" alt ="f3nr1rs3c"/>
 
 </p>
