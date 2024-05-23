@@ -1,52 +1,24 @@
-<a href = "https://github.com/ryo-ma/github-profile-trophy">
-  
-<p align="center">
-  <img width="700" height="400" src="https://i.hizliresim.com/5bgeda1.png">
-</p>
+# 💫 About Me:
+🌱 Currently **I am improving myself in Cyber ​​Security and IT. **<br>👨‍💻 To all my projects https://github.com/f3nr1rs3c you can reach us at<br>📝 I blog about technology on Medium! https://medium.com/@dogukan.ispirli08<br>📫 Send me an e-mail dogukan.ispirli08@gmail.com<br>📄 My experiences and CV https://www.linkedin.com/in/dogukan-ispirli/<br>⚡You can communicate via Discord. f3nr1rs3c
 
-<center> Hi 👋, I'm Doğukan İSPİRLİ </center>
-<h3 align="center">Cyber Security Consultant | Ethical Hacker | System & Network</h3>
-<p align="left" >   
-<br>
-<img src = "https://komarev.com/ghpvc/?username=f3nr1rs3c&label=Profile%20views&color=0e75b6&style=flat" alt ="f3nr1rs3c"/>
 
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/366269130850041856) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dogukan.ispirli/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dogukan-ispirli/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@dogukan.ispirli08) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/f3nr1rs3c) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/dogukantispirli) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCMd3vznbsm01maDLJRJrRXw) 
 
-- 🌱 Currently **I am improving myself in Cyber ​​Security and IT. **
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=f3nr1rs3c&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=f3nr1rs3c&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=f3nr1rs3c&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 👨‍💻 To all my projects [https://github.com/f3nr1rs3c](https://github.com/f3nr1rs3c) you can reach us at
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=f3nr1rs3c&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 📝 I blog about technology on Medium! [https://medium.com/@dogukan.ispirli08](https://medium.com/@dogukan.ispirli08)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 📫 Send me an e-mail **dogukan.ispirli08@gmail.com**
+---
+[![](https://visitcount.itsvg.in/api?id=f3nr1rs3c&icon=2&color=4)](https://visitcount.itsvg.in)
 
-- 📄 My experiences and CV [https://www.linkedin.com/in/dogukan-ispirli/](https://www.linkedin.com/in/dogukan-ispirli/)
-
-- ⚡You can communicate via Discord. **f3nr1rs3c**
-
-<h3 align="left">Contact setup with me: </h3>
-<p align = "sol">
-<a href = "https://twitter.com/dogukantispirli" target = "blank"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg" alt = "dogukantispirli" height = "30" genişlik = "40" /></a>
-<a href = "https://linkedin.com/in/dogukan-ispirli" target = "_blank"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt = "dogukan-ispirli" height = "30" width = "40" /></a>
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="f3nr1rs3c" height="30" width="40" />
-<a href = "https://www.instagram.com/dogukan.ispirli/" target = "_blank"></a>
-<a href = "https://medium.com/@dogukan.ispirli" target = "_blank"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt = "@dogukan.ispirli08" height = "30" genişlik = "40" /></a> <a href = "https://www.youtube.com/@higashi08" target = "_blank"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt = "ucmd3vznbsm01madljrjrrxw" height = "30" genişlik = "40" /></a>
-<a href = "https://discord.gg/f3nr1rs3c" target = "_blank"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt = "f3nr1rs3c" height = "30" genişlik = "40" /></a>
-</p>
-
-<h3 align="left">Languages ​​and Tools:</h3>  
-<p align="left"> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt = " css3" width = "40" height = "40"/> </a> 
-</p>
-<p>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3nr1rs3c&theme=blue-green">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=f3nr1rs3c&theme=blue-green"></p><br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=f3nr1rs3c&theme=blue-green&date_format=M%20j%5B%2C%20Y%5D"/>
-
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
