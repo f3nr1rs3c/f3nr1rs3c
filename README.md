@@ -12,14 +12,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=f3nr1rs3c&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=f3nr1rs3c&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=f3nr1rs3c&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=f3nr1rs3c&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=f3nr1rs3c&limit=5&theme=radical&combine_all_yearly_contributions=true)
+[![](https://visitcount.itsvg.in/api?id=f3nr1rs3c&icon=1&color=4)](https://visitcount.itsvg.in)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=f3nr1rs3c&icon=1&color=4)](https://visitcount.itsvg.in)
