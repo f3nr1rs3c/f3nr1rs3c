@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Currently **I am improving myself in Cyber ​​Security and IT. **<br>👨‍💻 To all my projects https://github.com/f3nr1rs3c you can reach us at<br>📝 I blog about technology on Medium! https://medium.com/@dogukan.ispirli08<br>📫 Send me an e-mail dogukan.ispirli08@gmail.com<br>📄 My experiences and CV https://www.linkedin.com/in/dogukan-ispirli/<br>⚡You can communicate via Discord. f3nr1rs3c
+🌱 Currently **I am improving myself in Cyber ​​Security and Penetration Testing **<br>👨‍💻 To all my projects https://github.com/f3nr1rs3c you can reach us at<br>📝 I blog about technology on Medium! https://medium.com/@dogukan.ispirli08<br>📫 Send me an e-mail dogukan.ispirli08@gmail.com<br>📄 My experiences and CV https://www.linkedin.com/in/dogukan-ispirli/<br>⚡You can communicate via Discord. f3nr1rs3c
 
 
 ## 🌐 Socials:
