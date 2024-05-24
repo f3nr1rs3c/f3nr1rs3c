@@ -19,8 +19,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=f3nr1rs3c&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 [![](https://visitcount.itsvg.in/api?id=f3nr1rs3c&icon=1&color=4)](https://visitcount.itsvg.in)
-
----
-[![](https://visitcount.itsvg.in/api?id=f3nr1rs3c&icon=1&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
