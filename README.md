@@ -6,7 +6,7 @@
         <p>
             <strong>
                 👨🏻‍💻 | Cyber Security Specialist<br>
-                🛡️ |Offensive Security<br>
+                🛡️ | Offensive Security<br>
                 🏴‍☠️ | Ethical Hacker<br>
                 🔒 | Penetration Tester<br>
             </strong>
