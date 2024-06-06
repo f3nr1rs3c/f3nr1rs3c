@@ -20,8 +20,8 @@
 <br>⚡You can communicate via Discord. f3nr1rs3c
 
 # 🎭 My hobbies:
-✨ Psychology<br>
 🎖️ Self-improvement<br>
+✨ Psychology<br>
 🔮 Astrology<br>
 ☕ Coffee Break<br>
 
