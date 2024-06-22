@@ -9,6 +9,7 @@
                 🔒 | Penetration Tester<br>
                 🏴‍☠️ | Ethical Hacker<br>
                 🛡️ | Offensive Security<br>
+                🩸 | Red Teaming<br>
             </strong>
         </p>
 
