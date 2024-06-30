@@ -23,7 +23,7 @@
 <br>⚡You can communicate via Discord. f3nr1rs3c
 
 
-# 🎭 My hobbies:
+# 🎭 My İnterests:
 🎖️ Self-improvement<br>
 ✨ Psychology<br>
 🔮 Astrology<br>
