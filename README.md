@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=f3nr1rs3c&icon=1&color=4)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Doğukan İSPİRLİ</h1>
 
-# 💫 About Me:
+# 💫 Who Am I:
 
 <div align=left>
         <p>
