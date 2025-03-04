@@ -6,7 +6,7 @@
 <div align=left>
         <p>
             <strong>
-                👨🏻‍💻 | Cyber Security Specialist<br>
+                👨🏻‍💻 | Cyber Security Researcher<br>
                 🔒 | Penetration Tester<br>
                 🛡️ | Offensive Security<br>
             </strong>
