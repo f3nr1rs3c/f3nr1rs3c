@@ -63,7 +63,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=f3nr1rs3c&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<div align=left>
-     <img src="https://tryhackme-badges.s3.amazonaws.com/F3nR1r.png" alt="F3nr1r" />
-</div>
