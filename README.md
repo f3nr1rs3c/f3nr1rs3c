@@ -7,7 +7,7 @@
         <p>
             <strong>
                 👨🏻‍💻 | Cyber Security Researcher<br>
-                🔒 | Penetration Tester<br>
+                🔒 | Penetration Tester / Offensive Security<br>
                 🥷 | Cyber Threat Intelligence Analyst<br>
             </strong>
         </p>
