@@ -7,8 +7,7 @@
         <p>
             <strong>
                 👨🏻‍💻 | Cyber Security Researcher<br>
-                🔒 | Penetration Tester / Offensive Security<br>
-                🥷 | Cyber Threat Intelligence Analyst<br>
+                🔒 | Penetration Tester<br>
             </strong>
         </p>
         
@@ -50,6 +49,8 @@
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
   </div>
 </div>
+<img src="https://tryhackme-badges.s3.amazonaws.com/F3nR1r.png" alt="Your Image Badge" />
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=f3nr1rs3c&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
