@@ -50,7 +50,6 @@
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
   </div>
 </div>
-<img src="https://tryhackme-badges.s3.amazonaws.com/F3nR1r.png" alt="Your Image Badge" />
 
 
 # 📊 GitHub Stats:
