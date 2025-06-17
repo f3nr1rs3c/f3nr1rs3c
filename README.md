@@ -6,9 +6,9 @@
 <div align=left>
         <p>
             <strong>
-                👨🏻‍💻 | Cyber Security Researcher<br>
                 🥷🏻 | Penetration Tester<br>
                 🛡️ | Offensive Security<br>
+                ♦️ | Red Teaming<br>
             </strong>
         </p>
         
