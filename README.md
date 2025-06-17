@@ -8,7 +8,7 @@
             <strong>
                 🥷🏻 | Penetration Tester<br>
                 🛡️ | Offensive Security<br>
-                ♦️ | Red Teaming<br>
+                ♦️| Red Teaming<br>
             </strong>
         </p>
         
