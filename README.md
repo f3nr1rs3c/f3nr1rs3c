@@ -6,9 +6,9 @@
 <div align=left>
         <p>
             <strong>
-                🥷🏻 | Penetration Tester<br>
+                🥷🏻 | Penetration Test Specialist<br>
                 🛡️ | Offensive Security<br>
-                ☠️ | Threat Hunter<br>
+                🩸 | Red Teaming<br>
             </strong>
         </p>
         
