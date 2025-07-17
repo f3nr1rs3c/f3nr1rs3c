@@ -6,7 +6,7 @@
 <div align=left>
         <p>
             <strong>
-                🥷🏻 | Penetration Test Specialist<br>
+                🥷🏻 | Penetration Test Expert<br>
                 🛡️ | Offensive Security<br>
                 🩸 | Red Teaming<br>
             </strong>
