@@ -8,7 +8,7 @@
             <strong>
                 🥷🏻 | Penetration Testing Specialist<br>
                 🛡️ | Offensive Security<br>
-                🩸 | Red Teaming<br>
+                🩸 | Red Team<br>
             </strong>
         </p>
         
