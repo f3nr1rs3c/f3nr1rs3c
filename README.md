@@ -13,7 +13,7 @@
         </p>
         
 
-🌱 Currently I am improving myself in Cyber ​​Security. 
+🌱 Currently I am improving myself in Penetration Testing. 
 <br>👨‍💻 You can look at my website to get services and solutions. https://yunixsecurity.com.tr
 <br>📝 I blog about technology on Medium! https://medium.com/@dogukan.ispirli
 <br>📫 Send me an e-mail dogukan.ispirli08@gmail.com
