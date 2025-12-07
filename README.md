@@ -8,7 +8,6 @@
             <strong>
                 🛡️ | Offensive Security Researcher<br>
                 ⚔️ | Penetration Testing Specialist<br>
-                🩸 | Red Teamer<br>
             </strong>
         </p>
         
