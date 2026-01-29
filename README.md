@@ -1,5 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=f3nr1rs3c&icon=1&color=4)](https://visitcount.itsvg.in)
-<h1 align="center">Hi guys! I'm Doğukan İSPİRLİ - Sirius</h1>
+<h1 align="center">Hi there! I'm Doğukan İSPİRLİ - Sirius</h1>
 
 # 💫 Who Am I:
 
