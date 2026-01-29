@@ -16,7 +16,7 @@
 <br>📝 I blog about technology on Medium! https://medium.com/@dogukan.ispirli
 <br>📫 Send me an e-mail dogukan.ispirli08@gmail.com
 <br>📄 My experiences and CV https://www.linkedin.com/in/dogukan-ispirli/
-<br>⚡You can communicate via Discord. @f3nr1rs3c
+<br>⚡You can communicate via Linkedln.
 
 
 ## 🌐 My Social Media Accounts:
