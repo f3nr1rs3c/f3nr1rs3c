@@ -26,6 +26,7 @@
 # 💻 Tech Stack:
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+      <img src="https://img.shields.io/badge/-Active_Directory-000000?style=for-the-badge&logo=activedirectory&logoColor=white" alt="Active Directory" />
       <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
       <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
       <img src="https://img.shields.io/badge/-Windows-000000?style=for-the-badge&logo=windows" alt="Windows" />
