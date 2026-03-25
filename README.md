@@ -6,7 +6,7 @@
 <div align=left>
         <p>
             <strong>
-                🩸 | Offensive Security Researcher<br>
+                🩸 | Offensive Security Specialist<br>
                 ⚔️ | Penetration Tester<br>
             </strong>
         </p>
