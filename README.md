@@ -8,6 +8,7 @@
             <strong>
                 🩸 | Offensive Security Specialist<br>
                 ⚔️ | Penetration Tester<br>
+                🛠️ | Offensive Developer<br>
             </strong>
         </p>
         
