@@ -77,8 +77,6 @@ I conduct professional-level penetration testing and security audits in the foll
 
 #
 
-### 📈 GitHub İstatistikleri | GitHub Stats
-
 ## 📊 GitHub Stats
 <div align="center">
   <br><br>
