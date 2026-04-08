@@ -11,6 +11,7 @@
                 🛡️ | Offensive Security Researcher<br>
                 ⚔️ | Penetration Testing Specialist<br>
                 🛠️ | Red Team Security Developer<br>
+                ✍️ | Cyber Security Content Writer<br>
             </strong>
         </p>
         
