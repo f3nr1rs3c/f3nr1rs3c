@@ -23,7 +23,7 @@
 
 #
 
-### 🗡️ Offensive Security & Red Team Capabilities
+### 🗡️ Advensary Emulations and Red Team Operations
 
 I conduct professional-level penetration testing and security audits in the following areas, within the framework of industry standards (OWASP, PTES, NIST, MITRE ATT&CK):
 
