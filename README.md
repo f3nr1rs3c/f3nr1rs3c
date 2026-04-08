@@ -25,7 +25,7 @@
 
 ### 🗡️ Advensary Emulations and Red Team Operations
 
-I conduct professional-level penetration testing and security audits in the following areas, within the framework of industry standards (OWASP, PTES, NIST, MITRE ATT&CK):
+I am developing my skills in conducting penetration testing and security audits in the following areas, within the framework of industry standards (OWASP, PTES, NIST, MITRE ATT&CK):
 
 *   🏢 **Internal Network Penetration Testing:** I conduct research on lateral movement, privilege escalation, Kerberos-based attacks, and domain controller takeover techniques in internal networks.
 *   🌍 **External Network Penetration Testing:** I identify vulnerabilities, open port services, and configuration errors in the organization's internet-facing perimeter.
