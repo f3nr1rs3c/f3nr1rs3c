@@ -1,4 +1,5 @@
-<img width="1024" height="316" alt="linkedln offsec" src="https://github.com/user-attachments/assets/2e1b2efc-55f5-4c88-9205-9fde89ba66a0" />
+![1500x500](https://github.com/user-attachments/assets/941aa844-1ba5-4aa8-b52f-f81af8fb8cc5)
+
 
 [![](https://visitcount.itsvg.in/api?id=f3nr1rs3c&icon=1&color=4)](https://visitcount.itsvg.in)
 <h1 align="center">Hi there! I'm Doğukan İSPİRLİ - (Sirius)</h1>
