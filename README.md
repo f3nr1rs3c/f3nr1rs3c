@@ -24,7 +24,7 @@
 
 #
 
-### 🗡️ Advensary Emulations and Red Team Operations
+### 🗡️ Advensary Simulations and Red Team Operations
 
 I am developing my skills in conducting penetration testing and security audits in the following areas, within the framework of industry standards (OWASP, PTES, NIST, MITRE ATT&CK):
 
