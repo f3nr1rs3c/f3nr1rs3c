@@ -10,9 +10,9 @@
         <p>
             <strong>
                 🛡️ | Offensive Security Engineer<br>
-                ⚔️ | Penetration Testing Specialist<br>
+                ⚔️ | Penetration Tester<br>
                 🛠️ | Red Team Security Developer<br>
-                ✍️ | Cyber Security Content Writer<br>
+                ✍️ | Cyber Security Content Author<br>
             </strong>
         </p>
         
