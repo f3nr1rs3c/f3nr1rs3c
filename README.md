@@ -80,6 +80,7 @@ I am developing my skills in conducting penetration testing and security audits 
 
 ## 📊 GitHub Stats
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=f3nr1rs3c&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0D1117&border_color=ff0000&hide_border=false" alt="f3nr1rs3c GitHub Stats" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=f3nr1rs3c&fire=ff0000&ring=ff0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff0000&sideLabels=ff0000&dates=ffffff&background=0D1117&border=ff0000&hide_border=false" alt="GitHub Streak" />
 </div>
