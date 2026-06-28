@@ -56,7 +56,7 @@ I am developing my skills in conducting penetration testing and security audits 
       <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
       <img src="https://img.shields.io/badge/Nmap-222222?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
       <img src="https://img.shields.io/badge/Hashcat-584B4F?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAAcElEQVRIie3MsQ2EMAwF0I/BCCwkxSjMwhaMwBqMwAjMwAzswgTMwgIsQCp0hKigpL4l2z/Zt+RxHEnX/K2hYYCjBmzYscI6pOGEBSsecH21x8x5x40dK6zDM1T88A9LDFjwxI8nFuxYscI6pOGEBSsemJ8y95tM4T8AAAAASUVORK5CYII=&logoColor=white" alt="Hashcat" />
-      <img src="https://img.shields.io/badge/Sqlmap-E50914?style=for-the-badge&logo=mongodb&logoColor=white" alt="Sqlmap" />
+      <img src="https://img.shields.io/badge/Sqlmap-E50914?style=for-the-badge&logo=sqlmap&logoColor=white" alt="Sqlmap" />
       <img src="https://img.shields.io/badge/BloodHound-000000?style=for-the-badge&logo=neo4j&logoColor=white" alt="BloodHound" />
       <img src="https://img.shields.io/badge/Ghidra-E51E25?style=for-the-badge&logo=dragon&logoColor=white" alt="Ghidra" />
   </div>
