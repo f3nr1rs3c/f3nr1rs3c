@@ -11,7 +11,7 @@
             <strong>
                 🛡️ | Offensive Security Engineer<br>
                 ⚔️ | Penetration Tester<br>
-                🛠️ | Red Team Security Developer<br>
+                🛠️ | Offensive Developer<br>
                 ✍️ | Cyber Security Content Author<br>
             </strong>
         </p>
