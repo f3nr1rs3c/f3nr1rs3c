@@ -40,6 +40,7 @@ I am developing my skills in conducting penetration testing and security audits 
 
 ### 💻 Teknolojiler & Araçlar | Tech Stack & Tools
 
+
 <div style="border: 2px solid #E50914; border-radius: 10px; padding: 25px; margin-bottom: 20px; background-color: #0D1117;">
   
   <h4 align="center" style="color: #ffffff; margin-bottom: 15px;">⚙️ Programming & Scripting </h4>
@@ -80,7 +81,9 @@ I am developing my skills in conducting penetration testing and security audits 
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=f3nr1rs3c&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0D1117&border_color=ff0000&hide_border=false" alt="f3nr1rs3c GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=f3nr1rs3c&fire=ff0000&ring=ff0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff0000&sideLabels=ff0000&dates=ffffff&background=0D1117&border=ff0000&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api?username=f3nr1rs3c&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0D1117&border_color=ff0000&hide_border=false" alt="GitHub Stats" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=f3nr1rs3c&background=0D1117&border=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ff0000&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=f3nr1rs3c&layout=compact&title_color=ff0000&text_color=ffffff&bg_color=0D1117&border_color=ff0000&hide_border=false" alt="Top Languages" />
 </div>
