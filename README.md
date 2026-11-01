@@ -12,7 +12,7 @@
                 🛡️ | Offensive Security Engineer<br>
                 ⚔️ | Penetration Tester<br>
                 🛠️ | Offensive Developer<br>
-                ✍️ | Cyber Security Content Author<br>
+                ✍️ | Cyber Security Technical Writer<br>
             </strong>
         </p>
         
