@@ -77,8 +77,6 @@ I am developing my skills in conducting penetration testing and security audits 
 
 </div>
 
-#
-
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=f3nr1rs3c&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0D1117&border_color=ff0000&hide_border=false" alt="GitHub Stats" />
